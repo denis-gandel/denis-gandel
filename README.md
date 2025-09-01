@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Commercial Software Engineering Student
 ---------------------------------------
 
-* 🌍  I'm based in Bolivia
+* 🌍  I'm based in Bolivia :D
 * 🖥️  See my portfolio at [GANDEL](http://gandel.netlify.app/)
 * ✉️  You can contact me at [gandarillas.delgado.denis@gmail.com](mailto:gandarillas.delgado.denis@gmail.com)
 * 🧠  I'm learning Laravel
